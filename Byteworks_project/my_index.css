@@ -1,0 +1,131 @@
+body {
+	background: #F1F1F1;
+}
+
+div .nigeria img {
+	opacity: 0.9;
+}
+
+#mainNavbar {
+    font-size: 1rem;
+    font-weight: 100;  
+    font-family: 'Play', sans-serif;  
+}
+
+#mainNavbar .nav-link {
+    color: black;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #00FF00;
+}
+
+#fb_tweet {
+	color: white;
+}
+
+#fb_tweet:hover {
+	text-decoration: none;
+}
+
+.navbar {
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.navbar.scrolled {
+    background: rgb(255,255,255);
+    transition: background 200ms;
+}
+
+.nigeria {
+	position: relative;
+  	text-align: center;
+  	color: white;
+}
+
+.nigeria_input {
+	position: absolute;  	
+    top: 70%;
+    left: 50%;
+    width: auto;
+    transform: translate(-50%, -50%);
+}
+
+.sct {
+	font-family: 'Fredericka the Great', cursive;
+}
+
+.centered {
+  position: absolute;
+  
+}
+
+#headingGroup span {
+    color: black;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+.basket{
+    overflow: hidden;
+    height: 150vh;
+    width: 150vw;
+}
+
+#circle-shape {
+	text-align: center;
+	width: 300px;
+	height: 300px;
+	background: linear-gradient(120deg, saddlebrown, #e9ecef);
+	-moz-border-radius: 75px;
+	-webkit-border-radius: 75px;
+	border-radius: 150px;
+	border: 5px solid #4D3927;
+	box-shadow: 0px 15px 10px -10px #666;
+	display: inline-block;
+	margin: 15px auto;
+}
+
+.btn-outline-success.custom-btn {
+	color: #4D3927;
+	border-color: #634a33;
+}
+
+.btn-outline-success.custom-btn:hover {
+	background-color: #634a33;
+	color: white;
+}
+
+.slide-btn {
+	color: #634a33;
+	border-color: #634a33;
+	background-color: #FFFFFF;
+}
+
+.slide-btn:hover {
+	color: #FFFFFF;
+	background-color: #634a33;
+	border-color: #FFFFFF;
+}
+
+.align {
+	text-align: center;
+}
+
+.footer {
+	line-height: 27px; 
+    background:#634a33;
+}
+
+.square {
+	margin-top: 50px;
+	background: white;
+}
+
+.circle-text {
+	font-family: 'Aclonica', sans-serif;
+	font-size: 50px;
+}
